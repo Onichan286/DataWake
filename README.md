@@ -82,10 +82,12 @@ Este projeto foi desenvolvido para fins **acadêmicos (TCC)** e pode ser utiliza
 📧 **E-mail:** victorhugosilva844@gmail.com 
 🌐 **Site:** [DataWake](#) *(adicione quando disponível)*  
 📘 **GitHub:** [@Onichan286](#)
+📘 **GitHub2:** [@vickzDev](#)
 
 ---
 
 ✨ *"DataWake — conectando tecnologia, acessibilidade e inovação."*
+
 
 
 
