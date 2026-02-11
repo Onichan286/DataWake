@@ -37,7 +37,7 @@ O sistema também visa promover **inclusão comunicacional**, garantindo que pes
 | Área | Tecnologias |
 |------|--------------|
 | **Frontend** | HTML5, CSS3, JavaScript |
-| **Backend** | Node.js *(ou outra tecnologia usada no projeto)* |
+| **Backend** | React |
 | **Banco de Dados** | MySQL / Firebase / MongoDB |
 | **Acessibilidade** | Libras (Linguagem Brasileira de Sinais), APIs de reconhecimento de fala |
 | **Outros** | GitHub, integração com serviços web, automação básica |
@@ -73,8 +73,7 @@ Este projeto foi desenvolvido para fins **acadêmicos (TCC)** e pode ser utiliza
 
 ## 📸 Prévia do Projeto
 
-*(adicione uma imagem ou GIF mostrando a interface do sistema)*  
-`/assets/img/preview.png`
+`/assets/<img width="1365" height="622" alt="image" src="https://github.com/user-attachments/assets/fff359ba-46bb-4b0b-90f4-86d9813016e2" />/preview.png`
 
 ---
 
@@ -87,4 +86,5 @@ Este projeto foi desenvolvido para fins **acadêmicos (TCC)** e pode ser utiliza
 ---
 
 ✨ *"DataWake — conectando tecnologia, acessibilidade e inovação."*
+
 
