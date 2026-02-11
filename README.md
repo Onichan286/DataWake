@@ -73,7 +73,7 @@ Este projeto foi desenvolvido para fins **acadêmicos (TCC)** e pode ser utiliza
 
 ## 📸 Prévia do Projeto
 
-`/assets/<img width="1365" height="622" alt="image" src="https://github.com/user-attachments/assets/fff359ba-46bb-4b0b-90f4-86d9813016e2" />/preview.png`
+<img width="1365" height="622" alt="image" src="https://github.com/user-attachments/assets/fff359ba-46bb-4b0b-90f4-86d9813016e2" />
 
 ---
 
@@ -86,5 +86,6 @@ Este projeto foi desenvolvido para fins **acadêmicos (TCC)** e pode ser utiliza
 ---
 
 ✨ *"DataWake — conectando tecnologia, acessibilidade e inovação."*
+
 
 
